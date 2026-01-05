@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Mine github stats](https://github-readme-stats.vercel.app/api?username=mehulkaklotar&include_all_commits=true&show_icons=true&theme=dark&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkaklotar&layout=compact)
+![Mine github stats](./profile/stats.svg) ![Top Langs](./profile/top-langs.svg)
 
 <!-- Social Links -->
 
