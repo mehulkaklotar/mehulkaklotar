@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mehul Kaklotar's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 35, Total Commits  : 4776, Total PRs: 147, Total Issues: 110, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 35, Total Commits  : 4778, Total PRs: 147, Total Issues: 110, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.01223544082431;
+        stroke-dashoffset: 84.0101174512816;
       }
     }
   
